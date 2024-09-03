@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/YOGESH/ML/MLOPs/MLFLOW_USVISA/MLFLOW_USVISA/mlruns/346146901445748390/42ca0c9105824a999690fae219ee1032/artifacts
+deleted_time: 1725381397597
+end_time: 1725309988267
+entry_point_name: ''
+experiment_id: '346146901445748390'
+lifecycle_stage: deleted
+run_id: 42ca0c9105824a999690fae219ee1032
+run_name: KNeighborsClassifier
+run_uuid: 42ca0c9105824a999690fae219ee1032
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725309973019
+status: 3
+tags: []
+user_id: acer

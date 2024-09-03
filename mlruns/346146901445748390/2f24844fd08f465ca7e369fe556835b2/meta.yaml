@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/YOGESH/ML/MLOPs/MLFLOW_USVISA/MLFLOW_USVISA/mlruns/346146901445748390/2f24844fd08f465ca7e369fe556835b2/artifacts
+deleted_time: 1725381397566
+end_time: 1725381128937
+entry_point_name: ''
+experiment_id: '346146901445748390'
+lifecycle_stage: deleted
+run_id: 2f24844fd08f465ca7e369fe556835b2
+run_name: Random Forest Classifier
+run_uuid: 2f24844fd08f465ca7e369fe556835b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725381116313
+status: 3
+tags: []
+user_id: acer

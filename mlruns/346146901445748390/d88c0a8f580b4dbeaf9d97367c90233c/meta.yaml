@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/YOGESH/ML/MLOPs/MLFLOW_USVISA/MLFLOW_USVISA/mlruns/346146901445748390/d88c0a8f580b4dbeaf9d97367c90233c/artifacts
+deleted_time: 1725387185994
+end_time: 1725386215619
+entry_point_name: ''
+experiment_id: '346146901445748390'
+lifecycle_stage: deleted
+run_id: d88c0a8f580b4dbeaf9d97367c90233c
+run_name: funny-gull-719
+run_uuid: d88c0a8f580b4dbeaf9d97367c90233c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725386206479
+status: 3
+tags: []
+user_id: acer

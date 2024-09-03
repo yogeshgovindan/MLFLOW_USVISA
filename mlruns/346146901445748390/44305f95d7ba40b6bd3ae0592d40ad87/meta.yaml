@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/YOGESH/ML/MLOPs/MLFLOW_USVISA/MLFLOW_USVISA/mlruns/346146901445748390/44305f95d7ba40b6bd3ae0592d40ad87/artifacts
+deleted_time: 1725382374240
+end_time: 1725381725851
+entry_point_name: ''
+experiment_id: '346146901445748390'
+lifecycle_stage: deleted
+run_id: 44305f95d7ba40b6bd3ae0592d40ad87
+run_name: XGBClassifier
+run_uuid: 44305f95d7ba40b6bd3ae0592d40ad87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725381720976
+status: 3
+tags: []
+user_id: acer

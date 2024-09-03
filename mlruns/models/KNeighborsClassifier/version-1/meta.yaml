@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1725387555212
+current_stage: None
+description: ''
+last_updated_timestamp: 1725387555212
+name: KNeighborsClassifier
+run_id: e9e3b10800c24d3a9cd27c6abd96c1e4
+run_link: ''
+source: file:///d:/YOGESH/ML/MLOPs/MLFLOW_USVISA/MLFLOW_USVISA/mlruns/346146901445748390/e9e3b10800c24d3a9cd27c6abd96c1e4/artifacts/KNeighborsClassifier
+status: READY
+status_message: null
+storage_location: file:///d:/YOGESH/ML/MLOPs/MLFLOW_USVISA/MLFLOW_USVISA/mlruns/346146901445748390/e9e3b10800c24d3a9cd27c6abd96c1e4/artifacts/KNeighborsClassifier
+user_id: null
+version: 1

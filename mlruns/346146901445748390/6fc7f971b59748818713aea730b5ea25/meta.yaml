@@ -1,8 +1,9 @@
 artifact_uri: file:///d:/YOGESH/ML/MLOPs/MLFLOW_USVISA/MLFLOW_USVISA/mlruns/346146901445748390/6fc7f971b59748818713aea730b5ea25/artifacts
+deleted_time: 1725309647399
 end_time: 1725307705809
 entry_point_name: ''
 experiment_id: '346146901445748390'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6fc7f971b59748818713aea730b5ea25
 run_name: XGBClassifier
 run_uuid: 6fc7f971b59748818713aea730b5ea25

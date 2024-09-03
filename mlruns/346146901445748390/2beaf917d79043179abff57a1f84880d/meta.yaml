@@ -1,8 +1,9 @@
 artifact_uri: file:///d:/YOGESH/ML/MLOPs/MLFLOW_USVISA/MLFLOW_USVISA/mlruns/346146901445748390/2beaf917d79043179abff57a1f84880d/artifacts
+deleted_time: 1725309647399
 end_time: 1725307700039
 entry_point_name: ''
 experiment_id: '346146901445748390'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2beaf917d79043179abff57a1f84880d
 run_name: KNeighborsClassifier
 run_uuid: 2beaf917d79043179abff57a1f84880d

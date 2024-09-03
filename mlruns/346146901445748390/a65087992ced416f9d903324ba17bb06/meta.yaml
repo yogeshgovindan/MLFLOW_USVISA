@@ -1,8 +1,9 @@
 artifact_uri: file:///d:/YOGESH/ML/MLOPs/MLFLOW_USVISA/MLFLOW_USVISA/mlruns/346146901445748390/a65087992ced416f9d903324ba17bb06/artifacts
+deleted_time: 1725309647408
 end_time: 1725307694162
 entry_point_name: ''
 experiment_id: '346146901445748390'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a65087992ced416f9d903324ba17bb06
 run_name: Random Forest Classifier
 run_uuid: a65087992ced416f9d903324ba17bb06

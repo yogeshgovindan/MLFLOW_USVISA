@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1725387562811
+current_stage: None
+description: ''
+last_updated_timestamp: 1725387562811
+name: XGBClassifier
+run_id: 5bab7984c7e4422592a97d46ea023d68
+run_link: ''
+source: file:///d:/YOGESH/ML/MLOPs/MLFLOW_USVISA/MLFLOW_USVISA/mlruns/346146901445748390/5bab7984c7e4422592a97d46ea023d68/artifacts/XGBClassifier
+status: READY
+status_message: null
+storage_location: file:///d:/YOGESH/ML/MLOPs/MLFLOW_USVISA/MLFLOW_USVISA/mlruns/346146901445748390/5bab7984c7e4422592a97d46ea023d68/artifacts/XGBClassifier
+user_id: null
+version: 1
